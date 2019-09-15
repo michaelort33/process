@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+  - appmode
+  - qgrid
+  - pip:
+    - numpy
+    - pandas
+    - regex
+    - gmaps
+    - ipywidgets
+    - IPython
+    - jupyter_contrib_nbextensions
